@@ -1,0 +1,69 @@
+#total{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    left: 10px;
+    position: relative;
+}
+#inputbill{
+    left: 50px;
+    bottom: 60px;
+    position: relative;
+    width: 250px;
+    height: 40px;
+}
+#entertext{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    left: 10px;
+    position: relative;
+}
+#service{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    left: 10px;
+    bottom: 60px;
+    position: relative;   
+}
+#rating{
+    left: 50px;
+    bottom: 60px;
+    position: relative;
+    width: 250px;
+    height: 40px;
+
+}
+#people{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    left: 15px;
+    bottom: 25px;
+    position: relative;
+}
+#totalmembers{
+    left: 50px;
+    bottom: 30px;
+    position: relative;
+    width: 250px;
+    height: 40px;
+}
+#button{
+    width: 130px;
+    height: 40px;
+    background-color: coral;
+    right: 150px;
+    top: 30px;
+    position: relative;
+}
+#tipamount{
+    left: 100px;
+    top: 20px;
+    position: relative;  
+}
+
+#finalamount{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    left: 15px;
+    top: 25px;
+    position: relative;
+}
